@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on ... join Developer Communities Focused on Collaboration.
 - ** Languges ** : HTML, CSS, Javascript, React, NodeJS, Corejava, Programming Language, SQL, DSA, Python Basics.
 - 📫 How to reach me ... Linkdin Profile: Mandha Tarunkumar.
-- 😄 Pronouns: ... They/them!!
+- 😄 Pronouns: ... He/Him!!
 - ⚡ Fun fact: ... Did you know? Sloths can hold their breath underwater longer than dolphins!
 
 <!---
